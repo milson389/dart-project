@@ -4,7 +4,7 @@ class Animal{
   int _age;
   double _weight = 0;
 
-  Animal(this._name, this._age, this._weight);
+  Animal(this._name, this._age, this._weight); // constructor
 
   void eat(){
     print('$_name is eating');
