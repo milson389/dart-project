@@ -1,4 +1,4 @@
-class Animal{
+abstract class Animal{
   // untuk membuat property private di Dart tambahkan '_' di depan nama variable
   String _name = '';
   int _age;
