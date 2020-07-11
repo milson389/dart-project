@@ -35,5 +35,5 @@ void main(){
 
   leftStar();
   rightStar();
-  
+
 }
