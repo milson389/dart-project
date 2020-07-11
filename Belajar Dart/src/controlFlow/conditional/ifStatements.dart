@@ -20,5 +20,13 @@ void main(){
   }else{
     print("Sorry, we're closed");
   }
-  
+
+  // ternary
+   var shopStatus = now > openHours ? print("Hello, we're open ") : print("Sorry, we're closed");
+
+  // conditional expressions
+  var name;
+  var buyer = name ?? 'user'; // check if name = null, print default value : user
+  print(buyer);
+
 }
