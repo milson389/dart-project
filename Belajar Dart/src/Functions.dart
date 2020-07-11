@@ -1,3 +1,5 @@
+import 'dart:io';
+
 void main(){
   greet('Audie', 2000);
 
@@ -7,7 +9,12 @@ void main(){
   print('Rata rata dari $firstNumber & $secondNumber adalah ${average(firstNumber, secondNumber)}');
   print('Rata rata dari $firstNumber & $secondNumber adalah ${rata2(firstNumber, secondNumber)}');
 
-  greetNewUser();
+  print('Nama : ');
+  var nama = stdin.readLineSync();
+  print('Umur : ');
+  var umur = int.parse(stdin.readLineSync());
+
+  greetNewUser(name: nama, age: umur);
 
 }
 
