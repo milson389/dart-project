@@ -1,0 +1,12 @@
+1. Aturan - aturan Effective Dart :
+    * Style guide, aturan untuk meletakkan dan mengatur kode ( format penamaan )
+    * Documentation guide, panduan apa yang boleh dan tidak ada di dalam komentar
+    * Usage guide, memanfaatkan fitur bahasa secara terbaik untuk menerapkan perilaku
+    * Design guide, panduan cakupan terluas bagaimana mendesain API Library yang konsisten dan bisa digunakan
+2. Rules Effective Dart :
+    * DO. Ketika aturan diawali dengan DO maka praktik tersebut harus selalu diikuti
+    * DON'T praktik tersebut harus tidak diterapkan
+    * PREFER praktik harus diikuti namun mungkin ada keadaan dimana lebih masuk akal untuk tidak diikuti, perlu
+      memahami konsekuensi ketika mengabaikan aturan ini
+    * AVOID hal hal yang tidak boleh dilakukan, namun kemungkinan ada alasan bagus untuk melakukannya pada beberapa kejadian
+    * CONSIDER praktik yang bisa diikuti/ tidak tergantung keadaan 
