@@ -19,3 +19,9 @@ extension Sorting on List<int>{
     return list;
   }
 }
+
+extension NumberParsing on String{
+  int parseInt(){
+    return int.parse(this);
+  }
+}
