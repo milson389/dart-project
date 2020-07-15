@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48adbfba-e31f-40ca-b459-aaf2ab0d52d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oop/mixin/Perform/Performer.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/mixin/Perform/Talent.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/mixin/Perform/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Extension/Sort.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
